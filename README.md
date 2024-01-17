@@ -26,7 +26,7 @@ The two common types of segmentation are:
   ### Instance Segmentation
   Instance segmentation goes a step further by assigning a unique label to each distinct instance of the class. This is relevant when finding out the number of objects even within the same class. <br />
 
-  Now consider the following image: </br>
+  Now consider the following image:
 
 <img alt="Instance Segmentation" src="https://github.com/aarshroongta1/internship-indian-food-segmentation/assets/108404307/9aaa8b12-a050-4226-a90e-07790fa56ed2" width="300">
 
