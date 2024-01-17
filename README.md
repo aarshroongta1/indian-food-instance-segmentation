@@ -1,4 +1,4 @@
-# indian-food-instance-segmentation
+# India Food Instance Segmentation
 
 ## ABOUT
 </p>
