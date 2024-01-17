@@ -13,6 +13,25 @@ Link to dataset: [https://universe.roboflow.com/internship-cjnh4/neuroequilibriu
 
 </p>
 
+## SEGMENTATION
+Image segmentation refers to the task of identifying and classifying multiple categories of objects in an image. Image classification assigns a single class to the whole image, but here the requirement is to detect multiple classes (food items) within a single image. Hence, image segmentation is important.
+
+<img alt="Image Segmentation" src="https://github.com/aarshroongta1/internship-indian-food-segmentation/assets/108404307/f6eb2013-eda5-4d4a-a3b7-30e6bbd285c9" width="300">
+</br>
+The two common types of segmentation are:
+
+  ### Semantic Segmentation
+  In semantic segmentation, all the objects that belong to the same class share the same label. 
+
+  ### Instance Segmentation
+  Instance segmentation goes a step further by assigning a unique label to each distinct instance of the class. This is relevant when finding out the number of objects even within the same class. <br />
+
+  Now consider the following image: </br>
+
+<img alt="Instance Segmentation" src="https://github.com/aarshroongta1/internship-indian-food-segmentation/assets/108404307/9aaa8b12-a050-4226-a90e-07790fa56ed2" width="300">
+
+As can be observed, every Gulab Jamun (Indian sweet) is detected separately, so we know that the user is consuming four of these and the calorie and sugar levels can be logged accordingly.
+
 ## RESULT
 <p>
   The mAP-50 (mean Average Precision at an IoU threshold of 0.5) obtained for YOLOv8 and Detectron2 are approximately 80% and 35%, respectively. <br />
