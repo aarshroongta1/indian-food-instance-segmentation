@@ -30,7 +30,7 @@ The two common types of segmentation are:
 
 <img alt="Instance Segmentation" src="https://github.com/aarshroongta1/internship-indian-food-segmentation/assets/108404307/9aaa8b12-a050-4226-a90e-07790fa56ed2" width="300">
 
-As can be observed, every Gulab Jamun (Indian sweet) is detected separately, so we know that the user is consuming four of these and the calorie and sugar levels can be logged accordingly.
+As can be observed, every Gulab Jamun (Indian sweet) is detected separately, so we know that the user is consuming four of these and the sugar and calorie intake can be logged accordingly.
 
 ## RESULT
 <p>
